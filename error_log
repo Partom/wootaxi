@@ -1,0 +1,6 @@
+[02-Jul-2017 18:32:36 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/heptokhl/Woo/app/Helper/ControllerHelper.php on line 18
+[02-Jul-2017 18:35:10 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/heptokhl/Woo/app/Helper/ControllerHelper.php on line 18
+[02-Aug-2017 18:56:42 UTC] PHP Fatal error:  Class 'AddSocialLoginToProvidersTables' not found in /home/heptokhl/woo/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 410
+[02-Aug-2017 18:59:22 UTC] PHP Fatal error:  Class 'AddSocialLoginToProvidersTables' not found in /home/heptokhl/woo/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 410
+[02-Aug-2017 19:01:11 UTC] PHP Fatal error:  Class 'AddSocialLoginToProvidersTables' not found in /home/heptokhl/woo/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 410
+[03-Sep-2017 05:19:40 UTC] PHP Fatal error:  Class 'Barryvdh\Debugbar\ServiceProvider' not found in /home/heptokhl/woo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
